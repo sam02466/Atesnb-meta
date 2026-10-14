@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atesnb.com/sitemap.xml
